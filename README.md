@@ -1,11 +1,11 @@
 # sulochanapokhrel
-<h1 align="center">👋 Hello, I'm <span style="color:#ff69b4;">Sulochana Pokhrel</span></h1>
+<h1 align="center"><marquee>👋 Hello, I'm <span style="color:#ff69b4;">Sulochana Pokhrel</marquee></span></h1>
 <h3 align="center">🎓 Computer Engineering Student | 💻 Flutter Intern | 🇳🇵 From Nepal</h3>
 
 ---
 
 ### 🕐 About Me
-```on-time generated...```
+
 
 - 🚀 Currently learning **Flutter** and building UI-rich mobile apps
 - 🎯 Passionate about clean design, responsive layouts, and mobile-first thinking
@@ -53,7 +53,6 @@
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -61,9 +60,10 @@
 
 ### 🌟 Featured Projects
 
-- 📱 **Learn Basic Computer App** – Flutter-based UI, multilingual (English | Nepali | Hindi)
 - 📊 **Invoice & Billing System** – Product/customer/invoice modules in Dart
-- 🌐 **Portfolio Website** – Simple responsive HTML/CSS/JS-based personal portfolio
+- 📱 **Portfolio Website** – Personal portfolio mobile app made using Flutter
+- 🍽️ **Restaurant Management System** – Table booking, menu, and order management built in Dart using Flutter
+
 
 ---
 
@@ -79,22 +79,15 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sulochanapokhrel&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ### ✨ Fun Facts
 
--🌸 I love designing UI that feels alive and intuitive  
--🎧 I enjoy listening to music while coding — it's my happy space
--😌 I’m an introvert who lets her creativity speak through code
--⏳ Always learning, building, and growing... one commit at a time
+- 🌸 I love designing UI that feels alive and intuitive  
+
+- 🎧 I enjoy listening to music while coding — it's my happy space
+
+- 😌 I’m an introvert who lets her creativity speak through code
+
+- ⏳ Always learning, building, and growing... one commit at a time
 
 
 
