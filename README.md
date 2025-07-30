@@ -1,5 +1,5 @@
 <h1 align="center"><marquee>👋 Hello, I'm <span style="color:#ff69b4;">Sulochana Pokhrel</span></marquee></h1>
-<h3 align="center">🎓 Computer Engineering Student | 💻 Flutter Intern | 🇳🇵 From Nepal</h3>
+<h3 align="center">🎓 Computer Engineering Student </h3>
 
 ---
 
