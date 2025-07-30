@@ -66,17 +66,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Sulochana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sulochanapokhrel&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sulochanapokhrel&layout=compact)
-
-</div>
-
----
 
 ### ✨ Fun Facts
 
