@@ -13,6 +13,14 @@
 
 ---
 
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/sulochana-pokhrel-72701b347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&style=for-the-badge)](https://www.facebook.com/share/1Wbpu1LPsw/)
+
+
 ### 💡 Skills & Tools
 
 #### 👩‍💻 Programming
