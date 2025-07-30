@@ -81,8 +81,6 @@
 
 - 🎧 I enjoy listening to music while coding — it's my happy space
 
-- 😌 I’m an introvert who lets her creativity speak through code
-
 - ⏳ Always learning, building, and growing... one commit at a time
 
 
