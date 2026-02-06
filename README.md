@@ -63,18 +63,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
-
 ---
-
-### 🌟 Featured Projects
-
-- 📊 **Invoice & Billing System** – Product/customer/invoice modules in Dart
-- 📱 **Portfolio Website** – Personal portfolio mobile app made using Flutter
-- 🍽️ **Restaurant Management System** – Table booking, menu, and order management built in Dart using Flutter
-
-
----
-
 
 ### ✨ Fun Facts
 
